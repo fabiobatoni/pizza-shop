@@ -16,8 +16,7 @@
 
 This project focuses on exercising both the concepts we saw about React, as well as communicating with APIs via HTTP requests. Also present tests in frontend application. Pizzeria management application (administrator dashboard) using Vite, React Router DOM, React Hook Form, shadcn/ui, React Query, Vitest and more!
 
-
- ![Pizza-shop GIF](public\pizza-shop.gif)
+![Demo app](https://github.com/fabiobatoni/pizza-shop/blob/main/public/pizza-shop.gif?raw=true)
 
 ## 2. Getting Started for Developers
 
