@@ -8,6 +8,7 @@
 [![Tailwind](https://img.shields.io/badge/tailwindcss-007FFF?logo=tailwindcss&logoColor=white&style=for-the-badge)](https://tailwindcss.com)
 [![ReactQuery](https://img.shields.io/badge/reactquery-ffa500?logo=reactquery&logoColor=black&style=for-the-badge)](https://tanstack.com/query/v3)
 [![Vitest](https://img.shields.io/badge/vitest-7CFC00?logo=vitest&logoColor=black&style=for-the-badge)](https://vitest.dev)
+[![MSW](https://img.shields.io/badge/msw-orange?logo=msw&logoColor=black&style=for-the-badge)](https://mswjs.io)
 
 ## 1. Introduction
 
@@ -81,6 +82,13 @@ pnpm run dev
 ```bash
 pnpm run test
 ```
+
+1.2. **Run test environment**
+
+```bash
+pnpm dev:test
+```
+
 2. **Backend the application**
 
 For this project, the pizza-api backend was used as a base:
