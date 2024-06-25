@@ -9,6 +9,7 @@
 [![ReactQuery](https://img.shields.io/badge/reactquery-ffa500?logo=reactquery&logoColor=black&style=for-the-badge)](https://tanstack.com/query/v3)
 [![Vitest](https://img.shields.io/badge/vitest-7CFC00?logo=vitest&logoColor=black&style=for-the-badge)](https://vitest.dev)
 [![MSW](https://img.shields.io/badge/msw-orange?logo=msw&logoColor=black&style=for-the-badge)](https://mswjs.io)
+[![PlayWright](https://img.shields.io/badge/playwright-green?logo=playwright&logoColor=red&style=for-the-badge)](https://playwright.dev)
 
 ## 1. Introduction
 
@@ -88,6 +89,17 @@ pnpm run test
 ```bash
 pnpm dev:test
 ```
+
+1.3. **Run Playwright test**
+
+```bash
+// results in console
+pnpm playwright test 
+
+// results in ui
+pnpm playwright test --ui
+```
+
 
 2. **Backend the application**
 
